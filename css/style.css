@@ -1,0 +1,21 @@
+h1 {color:purple;
+border-bottom:4px green solid;
+font-family:sans serif;
+border-length:10%;
+margin-top:40px;
+margin-right:400px;
+margin-left:20px;
+text-transform:uppercase;
+}
+h2{color:red; padding:5px ;font-family: sans serif;}
+
+#image{border:5px double crimson;border-radius:50%;box-shadow:1px 1px;margin-right:70%}
+p{font-family:sans serif;}
+ul{list-style:none}
+ul li{border-bottom:thin solid grey;margin-right:70%;}
+border-line:padding-left;
+h4{font-family:sans serif;border-left:2px solid black;}
+#a {
+padding-left:5%
+ }
+ h3{border-left:2px solid black}
